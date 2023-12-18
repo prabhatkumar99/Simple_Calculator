@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    border-radius: 2px solid lightgrey;
+    padding: 13px;
+    cursor: pointer;
+}
+.row{
+    padding: 5px;
+
+}
+.butn{
+    padding: 5px;
+}
+
+
