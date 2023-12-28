@@ -8,6 +8,7 @@ h1{
     border-radius: 2px solid lightgrey;
     padding: 13px;
     cursor: pointer;
+    border-radius: 50%;
 }
 .row{
     padding: 5px;
