@@ -7,11 +7,11 @@ Array.from(buttons).forEach((btn)=>{
             document.querySelector('input').value= string;
         }
 
-        else if(e.target.innerHTML == 'C'){
+        else if(e.target.innerHTML == 'AC'){
             string="";
             document.querySelector('input').value= string;
         }
-        else if(e.target.innerHTML == '.'){
+        else if(e.target.innerHTML == 'DEL'){
             string=string.slice(0,-1);
             document.querySelector('input').value= string;
         
